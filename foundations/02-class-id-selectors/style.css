@@ -1,0 +1,19 @@
+.odd-number {
+    background-color: rgb(255, 0, 85);
+    font-family: Verdana, Dejavu-sans, sans-serif;
+}
+
+#second-element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.odd-number#third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(154, 255, 154);
+    font-size: 24px;
+    font-weight: bold;
+}
